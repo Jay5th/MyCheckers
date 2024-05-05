@@ -6,5 +6,5 @@ This is a small project I've been working on to improve my coding chops. If you 
 2) Extract the contents of the .zip file to some location on your computer (the default location is probably the "Downloads" folder).
 3) Click through the extracted file, and navigate to the python file "MainWindow.py".
 4) Using a python editor (for example, IDLE), open and run "MainWindow.py".
-5) If this doesn't immediately work, make sure you have the libraries "playsound", "tkinter", "dataclasses", and "PIL" installed.
+5) If this doesn't immediately work, make sure you have "wheel" and the libraries "pillow" and "playsound" installed.
 6) Enjoy the game!
