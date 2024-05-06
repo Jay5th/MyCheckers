@@ -12,9 +12,9 @@ from BackEnd.Objects.Player import Player
 from FrontEnd.HelperFunctions.CreateRoundedRectangle import create_rounded_rectangle
 from FrontEnd.HelperFunctions.OrientedLocation import oriented_location
 from playsound import playsound
-slide_sound_path = 'C:/Users/japhe/OneDrive/Desktop/Program Projects/GitHubCheckers/Audio/PieceSlide.mp3'
-place_sound_path = 'C:/Users/japhe/OneDrive/Desktop/Program Projects/GitHubCheckers/Audio/PlacePiece.mp3'
-illegal_sound_path = 'C:/Users/japhe/OneDrive/Desktop/Program Projects/GitHubCheckers/Audio/IllegalMove.mp3'
+slide_sound_path = 'Audio/PieceSlide.mp3'
+place_sound_path = 'Audio/PlacePiece.mp3'
+illegal_sound_path = 'Audio/IllegalMove.mp3'
 
 
 class GameBoard:
