@@ -7,4 +7,5 @@ This is a small project I've been working on to improve my coding chops. If you 
 3) Click through the extracted file, and navigate to the python file "MainWindow.py".
 4) Using a python editor (for example, IDLE), open and run "MainWindow.py".
 5) If this doesn't immediately work, make sure you have "wheel" and the libraries "pillow" and "playsound" installed.
-6) Enjoy the game!
+   - Note: there seems to be an issue with playsound 1.3.0. If you're having audio problems when playing this game, try uninstalling your version of playsound and then install playsound 1.2.2.
+7) Enjoy the game!
